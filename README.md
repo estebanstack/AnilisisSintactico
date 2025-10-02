@@ -53,4 +53,5 @@ probar(G2, "Gramatica Ejercicio 2")
 
 En la terminal, escribir al tener el archivo localizado.
 
-python analizador.py
+
+"python analizador.py"
