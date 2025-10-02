@@ -11,14 +11,23 @@ El objetivo de este analizador es automatizar el proceso de análisis sintáctic
 # Gramatica
 
 S → A uno B C
+
 S → S dos
+
 A → A tres
+
 A → ε
+
 B → D cuatro C tres
+
 B → ε
+
 C → cinco D B
+
 C → ε
+
 D → seis
+
 D → ε
 
 - No Terminales: S, A, B, C, D
