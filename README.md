@@ -49,6 +49,8 @@ El código contiene varias funciones principales:
 El archivo principal incluye dos gramáticas de prueba (G1 y G2) y una función probar() que ejecuta el análisis completo:
 
 probar(G1, "Gramatica Ejercicio 1")
+
+
 probar(G2, "Gramatica Ejercicio 2")
 
 En la terminal, escribir al tener el archivo localizado.
